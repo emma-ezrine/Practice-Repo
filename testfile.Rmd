@@ -31,6 +31,6 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 ```{r}
 #hello world ! 
-# Today is a great day! 
+# Today is a great day!
 ```
 
